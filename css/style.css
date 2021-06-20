@@ -1,0 +1,14 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+  }
+
+  footer{
+    padding:40px 0;
+    background-color:#ffffff;
+    color:#4b4c4d;
+    text-align:center
+  }
+  
